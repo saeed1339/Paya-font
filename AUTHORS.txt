@@ -1,0 +1,2 @@
+Saeed Rezaee (Persian glyphs redesign)
+Based on DejaVu Fonts by the DejaVu Fonts team and Vazir font by Saber Rastikerdar.
